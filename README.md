@@ -3,7 +3,7 @@
 # Chaeyeon Lim
 ##### Become cherish whatever I developed
 <br>
-### About 🤔
+- About 🤔
 Student majoring in Computer Engineering
 
 <!--
