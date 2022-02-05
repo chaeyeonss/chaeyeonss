@@ -4,8 +4,8 @@
 ##### Become cherish whatever I developed
 </br>
 
-### About 🤔
-Student majoring in Computer Engineering
+### tech stack 🤔
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=html5&logoColor=white&link=https://velog.io/@new_wisdom
 
 **chaeyeonss/chaeyeonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
