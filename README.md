@@ -4,7 +4,7 @@
 ##### Become cherish whatever I developed
 </br>
 
-- About 🤔
+### About 🤔
 Student majoring in Computer Engineering
 
 **chaeyeonss/chaeyeonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
