@@ -1,8 +1,6 @@
 <!--img src="https://capsule-render.vercel.app/api?type=waving&color=22c1c3&height=150&section=header" /-->
 <img src="/output_145294088.jpg">
 
-### Hi there 👋
-
 # Chaeyeon Lim
 ##### Become cherish whatever I developed
 
