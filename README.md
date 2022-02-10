@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=HTML5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=Javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-2965f1?style=flat-square&logo=CSS3&logoColor=white" /> 
+  <div>
+    <h3>앞으로 배울 툴</h3>
+    <ul>react</ul>
+    <ul>svelte</ul>
+  </div>
 </div>
 
 <div align="center">
