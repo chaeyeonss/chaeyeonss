@@ -2,7 +2,6 @@
 <img src="/output_145294088.jpg">
 
 # Chaeyeon Lim
-##### Become cherish whatever I developed
 
 <div align="center">
   <h3>tech stack 🔭</h3>
@@ -28,7 +27,7 @@
   
 **chaeyeonss/chaeyeonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -37,6 +36,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <!--img src="https://capsule-render.vercel.app/api?type=waving&color=fdbb2d&text=copyright@chaeyeon&fontSize=10&height=150&section=footer" /-->
