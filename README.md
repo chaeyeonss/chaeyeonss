@@ -34,5 +34,3 @@
 - ⚡ Fun fact: ... -->
 
 <!--img src="https://capsule-render.vercel.app/api?type=waving&color=fdbb2d&text=copyright@chaeyeon&fontSize=10&height=150&section=footer" /-->
-
-<script src="https://gist.github.com/ihoneymon/652be052a0727ad59601.js"></script>
